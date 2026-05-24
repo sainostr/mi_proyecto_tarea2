@@ -1,0 +1,14 @@
+venv/
+env/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+mlruns/
+.mlflow/
+.vscode/
+.idea/
+*.swp
+data/
+models/
+*.csv
